@@ -1,3 +1,2 @@
 # MergeTest
 
-## Test #2
